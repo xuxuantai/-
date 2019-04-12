@@ -1,4 +1,4 @@
-package 数据结构算法;
+package 剑指offer;
 
 /**
  * Created by LaoP on 2019/3/5.

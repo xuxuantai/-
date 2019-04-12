@@ -1,4 +1,4 @@
-package 数据结构算法;
+package 剑指offer;
 
 import java.util.ArrayList;
 import java.util.Stack;
