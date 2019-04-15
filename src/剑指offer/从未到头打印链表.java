@@ -1,7 +1,6 @@
 package 数据结构算法;
 
-import java.util.ArrayList;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * Created by LaoP on 2019/3/5.
