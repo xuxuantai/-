@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66d5c63d-cb89-4e2e-ade2-6286adbbac9d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/剑指offer/分发糖果.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/剑指offer/合并两个排序的链表.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/剑指offer/字符串的排列.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/剑指offer/树的子结构.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/剑指offer/树的子结构.java" afterPath="$PROJECT_DIR$/src/剑指offer/树的子结构.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +29,8 @@
       <file leaf-file-name="树的子结构.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/剑指offer/树的子结构.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="382">
+              <caret line="41" column="77" lean-forward="false" selection-start-line="41" selection-start-column="77" selection-end-line="41" selection-end-column="77" />
               <folding>
                 <element signature="e#225#226#0" expanded="true" />
                 <element signature="e#263#264#0" expanded="true" />
@@ -183,7 +180,11 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/剑指offer/调整数组顺序使奇数位于偶数前面.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/剑指offer/二叉树的镜像.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/剑指offer/反转链表.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/剑指offer/对称的二叉树.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/剑指offer/链表中环的入口节点.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/剑指offer/链表的倒数第K个节点.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -688,7 +689,7 @@
       <workItem from="1551886218191" duration="1451000" />
       <workItem from="1552206869781" duration="1195000" />
       <workItem from="1555051724361" duration="3522000" />
-      <workItem from="1561792114623" duration="39058000" />
+      <workItem from="1561792114623" duration="42594000" />
     </task>
     <task id="LOCAL-00001" summary="重建二叉树">
       <created>1561793109056</created>
@@ -701,10 +702,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58919000" />
+    <option name="totallyTimeSpent" value="62455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -717,7 +719,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48799127" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3951965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="MyBatis Sql Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -772,13 +774,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="891">
           <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1561533119330" expanded="true" signature="39:78" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="107:180" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="253:486" ph="{...}" />
-            <marker date="1561533119330" expanded="true" signature="558:892" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -826,13 +822,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1561533119330" expanded="true" signature="39:78" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="107:180" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="253:486" ph="{...}" />
-            <marker date="1561533119330" expanded="true" signature="558:892" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -856,13 +846,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" column="73" lean-forward="true" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1561533119330" expanded="true" signature="39:78" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="107:180" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="253:486" ph="{...}" />
-            <marker date="1561533119330" expanded="true" signature="558:892" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -894,13 +878,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1561533119330" expanded="true" signature="39:78" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="107:180" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="253:486" ph="{...}" />
-            <marker date="1561533119330" expanded="true" signature="558:892" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -939,13 +917,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1561533119330" expanded="true" signature="39:78" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="107:180" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="253:486" ph="{...}" />
-            <marker date="1561533119330" expanded="true" signature="558:892" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -985,13 +957,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1561533119330" expanded="true" signature="39:78" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="107:180" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="253:486" ph="{...}" />
-            <marker date="1561533119330" expanded="true" signature="558:892" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,13 +981,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" column="73" lean-forward="true" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1561533119330" expanded="true" signature="39:78" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="107:180" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="253:486" ph="{...}" />
-            <marker date="1561533119330" expanded="true" signature="558:892" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,13 +1013,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1561533119330" expanded="true" signature="39:78" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="107:180" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="253:486" ph="{...}" />
-            <marker date="1561533119330" expanded="true" signature="558:892" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1075,20 +1029,6 @@
         <state relative-caret-position="567">
           <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/从未到头打印链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1561533119330" expanded="true" signature="39:78" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="107:180" ph="/**...*/" />
-            <marker date="1561533119330" expanded="true" signature="253:486" ph="{...}" />
-            <marker date="1561533119330" expanded="true" signature="558:892" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1180,14 +1120,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/正则表达式匹配.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="78" lean-forward="false" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer/字符串的排列.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -1206,10 +1138,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/正则表达式匹配.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="78" lean-forward="false" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/从未到头打印链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer/树的子结构.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="382">
+          <caret line="41" column="77" lean-forward="false" selection-start-line="41" selection-start-column="77" selection-end-line="41" selection-end-column="77" />
           <folding>
             <element signature="e#225#226#0" expanded="true" />
             <element signature="e#263#264#0" expanded="true" />
