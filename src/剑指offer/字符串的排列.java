@@ -10,17 +10,17 @@ import java.util.List;
 public class ×Ö·û´®µÄÅÅÁĞ {
     public class Solution {
         public ArrayList<String> Permutation(String str) {
-            List<String> resultList = new ArrayList<>();
+            ArrayList<String> resultList = new ArrayList<>();
             if(str.length() == 0){
-                return (ArrayList)resultList;
+                return resultList;
             }
             //µİ¹éº¯Êı
             dfs(str.toCharArray(), resultList,0);
             Collections.sort(resultList);
-            return (ArrayList)resultList;
+            return resultList;
         }
 
-        private void dfs(char[] chars, List<String> resultlist,int index){
+        private void dfs(char[] chars, ArrayList<String> resultlist,int index){
             if(chars.length - 1 == index){
                 if(!resultlist.contains(new String(chars))){
                     resultlist.add(new String(chars));
