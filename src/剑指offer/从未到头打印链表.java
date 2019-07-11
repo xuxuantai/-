@@ -6,6 +6,15 @@ import java.util.*;
  * Created by LaoP on 2019/3/5.
  */
 public class 从未到头打印链表 {
+
+    public class ListNode {
+        int val;
+        ListNode next = null;
+
+        ListNode(int val) {
+            this.val = val;
+        }
+    }
     /**
      * 题目描述
      从尾到头反过来打印出每个结点的值。
@@ -16,7 +25,7 @@ public class 从未到头打印链表 {
         //递归
         ArrayList<Integer> ret = new ArrayList<>();
         if(listNode != null){
-            ret.addAll(printListFromTailToHead(listNode.next()));
+            ret.addAll(printListFromTailToHead(listNode.next));
             ret.add(listNode.val);
         }
         return ret;
