@@ -5,7 +5,7 @@ package 剑指offer;
  */
 public class 数字在排序数组中出现的次数 {
     /**
-     *有序数组就使用二分查找，找到第一个k和第一个k+1,w位置相减
+     *有序数组就使用二分查找，找到第一个k和第一个k+1,位置相减
      */
     public int GetNumberOfK(int [] array , int k) {
         int first = binarySearch(array, k);
