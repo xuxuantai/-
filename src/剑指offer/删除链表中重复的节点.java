@@ -23,7 +23,7 @@ public class 删除链表中重复的节点 {
             if(pHead.val == next.val){
                 //删除重复的直到不重复
                 while(next != null && pHead.val == next.val){
-                    //TODO 先判断next为不为空再判断next.val，否则，会空指针
+                    //先判断next为不为空再判断next.val，否则，会空指针
                     next = next.next;
                 }
                 //返回最后一个节点的去重
