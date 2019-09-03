@@ -1,6 +1,7 @@
 package beike;
 
 import java.util.Scanner;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class a {
     public static void main(String[] args) {

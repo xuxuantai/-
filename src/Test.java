@@ -1,4 +1,8 @@
+import javax.xml.soap.Node;
 import java.lang.reflect.Method;
+import java.lang.reflect.Proxy;
+import java.util.ArrayDeque;
+import java.util.Queue;
 
 public class Test {
     public static void main(String[] args) throws Exception{
@@ -23,6 +27,17 @@ public class Test {
          * 要求创建的对象必须有空构造类
          */
         String s1 = (String) clazz1.newInstance();
+
+
+        /**
+         * JDK动态代理
+         */
+//        Proxy.newProxyInstance();
+        Queue queue = new ArrayDeque();
+
+
+
+
 
     }
 }
