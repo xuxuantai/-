@@ -2,13 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66d5c63d-cb89-4e2e-ade2-6286adbbac9d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/子集和问题_回溯.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ctrip/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ctrip/b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ctrip/c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer66/No3数组中重复的数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurrent/EnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/No1115交替打印Foobar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YY/删除链表的倒数第n个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YY/数字去重.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YY/数组旋转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iqiyi/红蓝球.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer66/No10_1斐波那契数列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer66/No10_2矩阵覆盖.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer66/No10_4变态跳台阶.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer66/No11旋转数组的最小数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer66/No4二维数组中的查找.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer66/No5替换空格.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer66/No6从尾到头打印链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer66/No7重建二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法练习/pdd/d2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/pdd/d2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/ctrip/a$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/ctrip/a$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/ctrip/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/ctrip/a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/删除链表中重复的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/删除链表中重复的节点.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="D:/Data/project/tjspxt" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -54,20 +68,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.a">
+  <component name="RunManager" selected="Application.EnumSingleton">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="瞌睡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="netease.瞌睡" />
+    <configuration name="数字去重" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YY.数字去重" />
       <module name="算法练习" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="netease.*" />
+          <option name="PATTERN" value="YY.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrent.EnumSingleton" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组旋转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YY.数组旋转" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YY.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,20 +143,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jd.a" />
-      <module name="算法练习" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ctrip.a" />
       <module name="算法练习" />
@@ -129,41 +157,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pdd.a2" />
+    <configuration name="删除链表的倒数第n个节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YY.删除链表的倒数第n个节点" />
       <module name="算法练习" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="b (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="didi.b" />
-      <module name="算法练习" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="didi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="d2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pdd.d2" />
-      <module name="算法练习" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pdd.*" />
+          <option name="PATTERN" value="YY.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,25 +277,22 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.瞌睡" />
-      <item itemvalue="Application.a (1)" />
-      <item itemvalue="Application.b (1)" />
-      <item itemvalue="Application.a2" />
-      <item itemvalue="Application.d2" />
       <item itemvalue="Application.a" />
+      <item itemvalue="Application.删除链表的倒数第n个节点" />
+      <item itemvalue="Application.数字去重" />
+      <item itemvalue="Application.EnumSingleton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumSingleton" />
+        <item itemvalue="Application.数字去重" />
+        <item itemvalue="Application.删除链表的倒数第n个节点" />
         <item itemvalue="Application.a" />
-        <item itemvalue="Application.d2" />
-        <item itemvalue="Application.a2" />
-        <item itemvalue="Application.b (1)" />
-        <item itemvalue="Application.a (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_PROPERTIES" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_PROPERTIES,SHOW_INTERFACES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -327,7 +324,9 @@
       <workItem from="1567504267285" duration="948000" />
       <workItem from="1567522633378" duration="3529000" />
       <workItem from="1567569869287" duration="8636000" />
-      <workItem from="1567649963818" duration="2788000" />
+      <workItem from="1567649963818" duration="15584000" />
+      <workItem from="1567927659617" duration="20014000" />
+      <workItem from="1568258127636" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="重建二叉树">
       <created>1561793109056</created>
@@ -440,6 +439,11 @@
           <url>file://$PROJECT_DIR$/src/ctrip/a.java</url>
           <line>53</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/YY/数字去重.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

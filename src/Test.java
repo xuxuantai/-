@@ -4,7 +4,10 @@ import java.lang.reflect.Proxy;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
+import static java.util.Objects.hash;
+
 public class Test {
+
     public static void main(String[] args) throws Exception{
         /**
          * java反射
@@ -34,6 +37,14 @@ public class Test {
          */
 //        Proxy.newProxyInstance();
         Queue queue = new ArrayDeque();
+
+        /**
+         * 一致性hash的实现
+         */
+        String key = "abc";
+        long hash = hash(key);
+//        long index = hash % node.size()
+
 
 
 

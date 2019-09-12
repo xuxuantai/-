@@ -37,7 +37,7 @@ public class 删除链表中重复的节点 {
 
         }
 
-//        public ListNode deletenode(ListNode head,ListNode tobeDelete){
+//        public util.ListNode deletenode(util.ListNode head,util.ListNode tobeDelete){
 //            if(head == null || tobeDelete == null){
 //                return null;
 //            }
@@ -49,7 +49,7 @@ public class 删除链表中重复的节点 {
 //                tobeDelete.val = tobeDelete.next.val;
 //                tobeDelete.next = tobeDelete.next.next;
 //            }else{
-//                ListNode cur = head;
+//                util.ListNode cur = head;
 //                while (cur.next != tobeDelete){
 //                    cur = head.next;
 //                }
