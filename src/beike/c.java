@@ -1,5 +1,6 @@
 package beike;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class c {
@@ -11,22 +12,13 @@ public class c {
             for (int i = 0; i < n; i++) {
                 nums[i] = scanner.nextInt();
             }
+            int[] dp = new int[n];
+            Arrays.fill(dp, 1);
 
-            int min = 0;
-            int max = 0;
             int cnt = 0;
-            for (int i = 0; i < n - 1; i++) {
-                for (int j = i + 1; j < n; j++) {
-                    if(nums[i] > nums[j]){
-                        min = nums[j];
-                        max = nums[i];
-                    }else{
-                        min = nums[i];
-                        max = nums[j];
-                    }
-                    if(min * 10 >= max * 9){
-                        cnt++;
-                    }
+            for (int i = 0; i < nums.length; i++) {
+                if(nums[i] > nums[i + 1] || nums[i] > nums[i - 1]){
+
                 }
             }
             System.out.println(cnt);

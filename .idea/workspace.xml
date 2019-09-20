@@ -2,33 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66d5c63d-cb89-4e2e-ade2-6286adbbac9d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Concurrent/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/No1115交替打印Foobar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YY/删除链表的倒数第n个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YY/数字去重.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YY/数组旋转.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iqiyi/红蓝球.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer66/No10_1斐波那契数列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer66/No10_2矩阵覆盖.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer66/No10_4变态跳台阶.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer66/No11旋转数组的最小数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer66/No4二维数组中的查找.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer66/No5替换空格.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer66/No6从尾到头打印链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer66/No7重建二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/算法练习/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法练习/ctrip/a$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/ctrip/a$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法练习/ctrip/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/ctrip/a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/删除链表中重复的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/删除链表中重复的节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/beike/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/beike/a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/beike/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/beike/b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/beike/c.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/beike/c.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beike/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beike/a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beike/b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beike/b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beike/c.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beike/c.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,16 +47,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1PrcyiLlm4AI5Ok1740dxGoCVMm" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Data/project/tjspxt" />
+    <property name="last_opened_file_path" value="D:/Data/project/qzswdjxt" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,37 +78,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnumSingleton">
+  <component name="RunManager" selected="Application.a">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数字去重" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YY.数字去重" />
-      <module name="算法练习" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="YY.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnumSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Concurrent.EnumSingleton" />
-      <module name="算法练习" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Concurrent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,6 +95,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnowFlake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SnowFlake" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,13 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ctrip.a" />
+    <configuration name="a (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beike.a" />
       <module name="算法练习" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ctrip.*" />
+          <option name="PATTERN" value="beike.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,13 +147,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="删除链表的倒数第n个节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YY.删除链表的倒数第n个节点" />
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beike.b" />
       <module name="算法练习" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="YY.*" />
+          <option name="PATTERN" value="beike.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,17 +283,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.数组旋转" />
+      <item itemvalue="Application.SnowFlake" />
+      <item itemvalue="Application.a (1)" />
+      <item itemvalue="Application.b" />
       <item itemvalue="Application.a" />
-      <item itemvalue="Application.删除链表的倒数第n个节点" />
-      <item itemvalue="Application.数字去重" />
-      <item itemvalue="Application.EnumSingleton" />
+      <item itemvalue="Application.b (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumSingleton" />
-        <item itemvalue="Application.数字去重" />
-        <item itemvalue="Application.删除链表的倒数第n个节点" />
         <item itemvalue="Application.a" />
+        <item itemvalue="Application.b (1)" />
+        <item itemvalue="Application.b" />
+        <item itemvalue="Application.a (1)" />
+        <item itemvalue="Application.SnowFlake" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +335,10 @@
       <workItem from="1567569869287" duration="8636000" />
       <workItem from="1567649963818" duration="15584000" />
       <workItem from="1567927659617" duration="20014000" />
-      <workItem from="1568258127636" duration="266000" />
+      <workItem from="1568258127636" duration="12137000" />
+      <workItem from="1568450440829" duration="9663000" />
+      <workItem from="1568596421773" duration="4243000" />
+      <workItem from="1568881429894" duration="2358000" />
     </task>
     <task id="LOCAL-00001" summary="重建二叉树">
       <created>1561793109056</created>
@@ -444,6 +456,21 @@
           <url>file://$PROJECT_DIR$/src/YY/数字去重.java</url>
           <line>37</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/beike/a.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/beike/b.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/b.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
