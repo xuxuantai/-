@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66d5c63d-cb89-4e2e-ade2-6286adbbac9d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alibaba/ConvetToChinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tencent/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tencent/均分一个数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tencent/最小非零元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/duxiaoman/滑动窗口最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/netease/最小数位和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/netease/逆序对距离之和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法练习/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法练习/beike/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/beike/a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法练习/beike/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/beike/b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法练习/beike/c.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/beike/c.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beike/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beike/a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beike/b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beike/b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beike/c.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beike/c.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,13 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="数组旋转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YY.数组旋转" />
+    <configuration name="均分一个数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tencent.均分一个数组" />
       <module name="算法练习" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="YY.*" />
+          <option name="PATTERN" value="Tencent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,10 +98,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SnowFlake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SnowFlake" />
+    <configuration name="ConvetToChinese" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alibaba.ConvetToChinese" />
       <module name="算法练习" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最小数位和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netease.最小数位和" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netease.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="逆序对距离之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netease.逆序对距离之和" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netease.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="滑动窗口最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="duxiaoman.滑动窗口最大值" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="duxiaoman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最小非零元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tencent.最小非零元素" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tencent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,43 +188,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beike.a" />
-      <module name="算法练习" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beike.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a" />
-      <module name="算法练习" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="b (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b" />
-      <module name="算法练习" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beike.b" />
+      <option name="MAIN_CLASS_NAME" value="Tencent.a" />
       <module name="算法练习" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beike.*" />
+          <option name="PATTERN" value="Tencent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,20 +308,14 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.数组旋转" />
-      <item itemvalue="Application.SnowFlake" />
-      <item itemvalue="Application.a (1)" />
-      <item itemvalue="Application.b" />
       <item itemvalue="Application.a" />
-      <item itemvalue="Application.b (1)" />
+      <item itemvalue="Application.ConvetToChinese" />
+      <item itemvalue="Application.均分一个数组" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.a" />
-        <item itemvalue="Application.b (1)" />
-        <item itemvalue="Application.b" />
-        <item itemvalue="Application.a (1)" />
-        <item itemvalue="Application.SnowFlake" />
+        <item itemvalue="Application.均分一个数组" />
+        <item itemvalue="Application.ConvetToChinese" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +357,9 @@
       <workItem from="1568258127636" duration="12137000" />
       <workItem from="1568450440829" duration="9663000" />
       <workItem from="1568596421773" duration="4243000" />
-      <workItem from="1568881429894" duration="2358000" />
+      <workItem from="1568881429894" duration="16585000" />
+      <workItem from="1569051367023" duration="2727000" />
+      <workItem from="1569140683496" duration="1442000" />
     </task>
     <task id="LOCAL-00001" summary="重建二叉树">
       <created>1561793109056</created>
@@ -471,6 +492,36 @@
           <url>file://$PROJECT_DIR$/src/b.java</url>
           <line>27</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Alibaba/ConvetToChinese.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tencent/均分一个数组.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tencent/均分一个数组.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tencent/最小非零元素.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/netease/最小数位和.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/duxiaoman/滑动窗口最大值.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
