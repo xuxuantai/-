@@ -6,9 +6,9 @@ import java.util.Queue;
 
 import static java.util.Objects.hash;
 
-public class Test {
+public class Test{
 
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
         /**
          * java∑¥…‰
          */
@@ -44,10 +44,6 @@ public class Test {
         String key = "abc";
         long hash = hash(key);
 //        long index = hash % node.size()
-
-
-
-
 
 
     }

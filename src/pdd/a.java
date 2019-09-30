@@ -9,41 +9,32 @@ public class a {
         Scanner scanner = new Scanner(System.in);
         while(scanner.hasNext()){
             int n = scanner.nextInt();
+            int k = scanner.nextInt();
             int[] nums = new int[n];
             for (int i = 0; i < n; i++) {
                 nums[i] = scanner.nextInt();
             }
             Arrays.sort(nums);
 
-
-            double minVarience = Double.MAX_VALUE;
-//            for (int a = 0; a < n; a++) {
-////                for (int b = a + 1; b < n; b++) {
-////                    for (int c = b + 1; c < n; c++) {
-////                        double temp = (nums[a] + nums[b] + nums[c]) / 3;
-////                        double pow1 = Math.pow(nums[a] - temp, 2);
-////                        double pow2 = Math.pow(nums[b] - temp, 2);
-////                        double pow3 = Math.pow(nums[c] - temp, 2);
-////                        double varience = (pow1 + pow2 + pow3) / 3;
-////                        if(varience < minVarience){
-////                            minVarience = varience;
-////                        }
-////                    }
-////                }
-////            }
-
-            for (int a = 0; a + 2 < n; a++) {
-                double temp = (nums[a] + nums[a + 1] + nums[a + 2]) / 3;
-                double pow1 = Math.pow(nums[a] - temp, 2);
-                double pow2 = Math.pow(nums[a + 1] - temp, 2);
-                double pow3 = Math.pow(nums[a + 2] - temp, 2);
-                double varience = (pow1 + pow2 + pow3) / 3;
-                if(varience < minVarience){
-                    minVarience = varience;
+            long result = 0;
+            if(k == 1){
+                result = nums[0] * nums[1];
+            }else{
+                int start = 0;
+                int end = n - 1;
+                for (int i = 0; i < k; i++) {
+                    while(start < end){
+                        result += nums[start] * nums[end];
+                        start++;
+                        end--;
+                    }
                 }
             }
-            DecimalFormat df = new DecimalFormat("0.00");
-            System.out.println(df.format(minVarience));
+
+            System.out.println(result);
+
+
+
         }
     }
 }

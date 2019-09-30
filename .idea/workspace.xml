@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66d5c63d-cb89-4e2e-ade2-6286adbbac9d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Alibaba/ConvetToChinese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tencent/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tencent/均分一个数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tencent/最小非零元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duxiaoman/滑动窗口最大值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/netease/最小数位和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/netease/逆序对距离之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pdd/c.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/算法练习/a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/duxiaoman/滑动窗口最大值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/duxiaoman/滑动窗口最大值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/pdd/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/pdd/a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/pdd/a2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法练习/pdd/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法练习/pdd/b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pdd/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdd/a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pdd/a2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pdd/b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdd/b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vivo/P1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vivo/P2.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +62,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -77,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.a">
+  <component name="RunManager" selected="Application.c">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -202,6 +206,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pdd.b" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pdd.c" />
+      <module name="算法练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -311,16 +343,20 @@
       <item itemvalue="Application.a" />
       <item itemvalue="Application.ConvetToChinese" />
       <item itemvalue="Application.均分一个数组" />
+      <item itemvalue="Application.b" />
+      <item itemvalue="Application.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.c" />
+        <item itemvalue="Application.b" />
         <item itemvalue="Application.均分一个数组" />
         <item itemvalue="Application.ConvetToChinese" />
       </list>
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_PROPERTIES,SHOW_INTERFACES" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES,SHOW_INHERITED,SHOW_ANONYMOUS,SHOW_LAMBDA" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -360,6 +396,9 @@
       <workItem from="1568881429894" duration="16585000" />
       <workItem from="1569051367023" duration="2727000" />
       <workItem from="1569140683496" duration="1442000" />
+      <workItem from="1569230560937" duration="598000" />
+      <workItem from="1569395577217" duration="6108000" />
+      <workItem from="1569568262759" duration="6853000" />
     </task>
     <task id="LOCAL-00001" summary="重建二叉树">
       <created>1561793109056</created>
@@ -454,11 +493,6 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pdd/a2.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ctrip/a.java</url>
           <line>21</line>
           <option name="timeStamp" value="30" />
@@ -522,6 +556,11 @@
           <url>file://$PROJECT_DIR$/src/duxiaoman/滑动窗口最大值.java</url>
           <line>17</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pdd/b.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
